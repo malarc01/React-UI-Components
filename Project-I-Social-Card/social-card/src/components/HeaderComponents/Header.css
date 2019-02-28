@@ -1,1 +1,16 @@
 /* All styles for your header Components live here */
+h1{
+    color: aqua;
+    font-size: 11px;
+}
+h2{
+    color:grey;
+    font-weight: 100;
+    font-size: 11px;
+}
+p{
+    font-size: 15px;
+}
+img{
+
+}
